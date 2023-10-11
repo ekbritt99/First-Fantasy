@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Scene Trigger
+  - Scene Trigger 2
+  - Enemy
+  - Shop Trigger
+  - Scene Tracker
+  - One
+  - Two
+  - Three
+  - Four
+  - Five
+  - Six
+  - Seven
+  - Eight
+  - Nine
+  - Ten
+  - house
+  - NPC Rat
+  - leave house
+  - World 2 Trigger
+  - NPCRat2
+  - Scene Trigger 3
+  - Top Left Castle Door Trigger
+  - Top Right Castle Door Trigger
+  - Bottom Left Castle Door Trigger
+  - Bottom Right Castle Door Trigger
+  - Castle Trigger
+  - boss1
+  - boss1text
+  - boss2text
+  - boss2
+  - TL Castle Chest 1 Trigger
+  - TL Castle Chest 2 Trigger
+  - TR Castle Chest 1 Trigger
+  - TR Castle Chest 2 Trigger
+  - BL Castle Chest 1 Trigger
+  - BL Castle Chest 2 Trigger
+  - BR Castle Chest 1 Trigger
+  - BR Castle Chest 2 Trigger
+  - Scene Trigger 4
+  - props
+  - world2bg
+  - castle bg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top
+    uniqueID: 4173650471
+    locked: 0

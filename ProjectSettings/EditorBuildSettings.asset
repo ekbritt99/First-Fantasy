@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game Start Scene.unity
+    guid: 93181d914b561084c9de6e11d7a1a98e
+  - enabled: 1
+    path: Assets/Scenes/House Scene.unity
+    guid: 0920a55ca0ba07740a6920e0e4e54601
+  - enabled: 1
+    path: Assets/Scenes/Test Village Scene.unity
+    guid: 25b98e755eff4bf4b9594da7f96880ac
+  - enabled: 1
+    path: Assets/Scenes/InventoryUI Scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Test World Scene.unity
+    guid: afcc1e763f2d3be4696b83f88d328bef
+  - enabled: 1
+    path: Assets/Scenes/Battle Scene.unity
+    guid: 3e94deb873131bf41949aeec1daa5649
+  - enabled: 1
+    path: Assets/Scenes/Shop Scene.unity
+    guid: 5f066461f10ba2b488e895dcd4282e0c
+  - enabled: 1
+    path: Assets/Scenes/World Scene 2.unity
+    guid: fe27af2e5ef938d44a5b346afcd6e739
+  - enabled: 1
+    path: Assets/Scenes/Castle Scene.unity
+    guid: d36a275f862d9f248af970736801eee4
+  - enabled: 1
+    path: Assets/Scenes/Top Left Castle Room Scene.unity
+    guid: 08710eb4c02d3e443ab775644813fb2f
+  - enabled: 1
+    path: Assets/Scenes/Top Right Castle Room Scene.unity
+    guid: 4248434c372f5ed46abddeca1b059187
+  - enabled: 1
+    path: Assets/Scenes/Bottom Left Castle Room Scene.unity
+    guid: 5d16afd0693bbff42817b93c39183796
+  - enabled: 1
+    path: Assets/Scenes/Bottom Right Castle Room Scene.unity
+    guid: fb61a5f6601a10b469df64805478fb4a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: a29b76a5257b5a744a33163cf7376fc2, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d48d9cdc3102134d9a86e3d864e8072, type: 3}
+  m_Name: Knight Helmet
+  m_EditorClassIdentifier: 
+  ID: 21
+  uiDisplay: {fileID: 21300000, guid: faa1e930a3b4a3c4aa62a85f8d8bc747, type: 3}
+  prefab: {fileID: 0}
+  type: 0
+  description: NOTHING is getting through this helmet.
+  stackable: 0
+  data:
+    Name: Studded Helmet
+    ID: 21
+    buffs:
+    - stat: 3
+      value: 0
+      min: 1
+      max: 3

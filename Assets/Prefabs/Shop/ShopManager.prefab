@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &474971713067068969
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 474971713067068975}
+  - component: {fileID: 474971713067068968}
+  m_Layer: 0
+  m_Name: ShopManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &474971713067068975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 474971713067068969}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -59.79185, y: 44.258133, z: -0.5165085}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &474971713067068968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 474971713067068969}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ff052a5420799b48978483f7e8ece4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerInventory: {fileID: 11400000, guid: 1af540207d904e14184a6ab85a43fa1c, type: 2}
+  playerEquipment: {fileID: 11400000, guid: a27166c753180dd408aa17af7549c6ce, type: 2}
+  dataManager: {fileID: 0}
+  notEnoughFunds: {fileID: 0}
+  purchaseSuccessful: {fileID: 0}
+  currPlayerMoney: 0
+  lblCurrentMoneyAmount: {fileID: 0}
+  playerObj: {fileID: 0}
+  helmetUpgradeBTN: {fileID: 0}
+  chestUpgradeBTN: {fileID: 0}
+  legsUpgradeBTN: {fileID: 0}
+  bootsUpgradeBTN: {fileID: 0}
+  swordUpgradeBTN: {fileID: 0}
+  shieldUpgradeBTN: {fileID: 0}
+  upgradeInfoWindow: {fileID: 0}
+  weaponName: {fileID: 0}
+  upgradeCost: {fileID: 0}
+  currentBuff: {fileID: 0}
+  upgradedBuff: {fileID: 0}
+  weaponName2: {fileID: 0}
+  helmetPurchaseBtn: {fileID: 0}
+  chestPurchaseBtn: {fileID: 0}
+  legsPurchaseBtn: {fileID: 0}
+  bootsPurchaseBtn: {fileID: 0}
+  swordPurchaseBtn: {fileID: 0}
+  shieldPurchaseBtn: {fileID: 0}
+  upgradeSuccessDisplay: {fileID: 0}
+  notEnoughFundsUpgradeDisplay: {fileID: 0}

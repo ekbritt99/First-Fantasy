@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63e7888cd8d50ce48a9acd7cdef02cbb, type: 3}
+  m_Name: Iron Boots
+  m_EditorClassIdentifier: 
+  ID: 12
+  uiDisplay: {fileID: 21300000, guid: 4c484335366fe0546b8f4897e1b8be8b, type: 3}
+  prefab: {fileID: 0}
+  type: 3
+  description: Now we're talkin'. These shiny boots will get a lot of lookers AND
+    provide excellent defense.
+  stackable: 0
+  data:
+    Name: Iron Boots
+    ID: 12
+    buffs:
+    - stat: 3
+      value: 0
+      min: 1
+      max: 3

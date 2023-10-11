@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ed3b80d1a0f97f4c939551d2d9e7d2a, type: 3}
+  m_Name: Elixir of the Gods
+  m_EditorClassIdentifier: 
+  ID: 23
+  uiDisplay: {fileID: 1426333404, guid: c7a25d898fe72724aa5f0cac73437ca9, type: 3}
+  prefab: {fileID: 7522105947910573475, guid: 52d7e4dd0af76264980390e71a0db6bb, type: 3}
+  type: 6
+  description: Heals all injuries and ailments. It must have been sent by the gods.
+  stackable: 0
+  data:
+    Name: Elixir of the Gods
+    ID: 23
+    buffs:
+    - stat: 4
+      value: 30
+      min: 30
+      max: 30
